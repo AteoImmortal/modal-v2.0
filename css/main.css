@@ -27,7 +27,8 @@
     padding: 25px;
     border-radius: 10px;
     min-height: 300px;
-    max-width: 350px;
+    min-width: 350px;
+    max-width: 80%;
 }
 
 .modal__header {
